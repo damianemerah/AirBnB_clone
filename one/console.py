@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 '''Command Line Interpreter'''
 import cmd
 import json
