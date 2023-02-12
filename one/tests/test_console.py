@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """Module for testing the HBNBCommand Class"""
 import unittest
 from console import HBNBCommand
